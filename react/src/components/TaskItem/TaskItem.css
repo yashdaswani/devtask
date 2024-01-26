@@ -1,0 +1,21 @@
+.btnContTaskItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btnContTaskItem button{
+    width: 5rem;
+    background-color: rgb(59, 68, 42);
+    font-weight: 600;
+}
+
+.title{
+    margin: 10px;
+    font-size: larger;
+    text-transform: uppercase;
+}
+
+.taskItemCont{
+    width: 15rem;
+}
